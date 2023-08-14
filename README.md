@@ -1,1 +1,1 @@
-Rename main to master
+This is a small pet project just for practice
